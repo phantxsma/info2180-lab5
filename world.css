@@ -1,12 +1,1 @@
-/* Add your own styles */
-
-/*
-
-?>
-<ul>
-<?php foreach ($results as $row): ?>
-  <li><?= $row['name']; ?></li>
-<?php endforeach; ?>
-</ul> 
-
-*/
+/*css styles weren't being applied, no clue why. */ 
